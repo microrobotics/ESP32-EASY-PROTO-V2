@@ -1,6 +1,6 @@
 # ESP32-EASY-PROTO-V2 - Firmware Examples
 
-This folder contains **sample firmware projects** demonstrating key features of the **ESP32-EASY-PROTO-V2** board, designed by Lucienne Swart at Micro Robotics. Each subfolder corresponds to a specific peripheral, sensor, or combined demo.
+This folder contains **sample firmware projects** demonstrating key features of the **ESP32-EASY-PROTO-V2** board, written by Lucienne Swart. Each subfolder corresponds to a specific peripheral, sensor, or combined demo.
 
 ---
 
