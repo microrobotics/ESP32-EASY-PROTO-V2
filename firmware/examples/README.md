@@ -74,4 +74,4 @@ Written by Lucienne Swart. Each subfolder corresponds to a specific peripheral, 
 
 ---
 
-**Enjoy exploring each peripheral on the ESP32-EASY-PROTO-V2 board!** If you have any questions or encounter issues, please contact **Micro Robotics** via [Your Support Email / Website] or the private issue tracker.
+**Enjoy exploring each peripheral on the ESP32-EASY-PROTO-V2 board!** If you have any questions or encounter issues, please contact **Micro Robotics** via support@microgroup.co.za. 
