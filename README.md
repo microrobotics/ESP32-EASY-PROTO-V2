@@ -3,6 +3,8 @@
 **Designed by:** Lucienne Swart, **Micro Robotics**  
 **In Collaboration with:** University of Pretoria
 
+![ESP32-EASY-PROTO-FB](https://github.com/user-attachments/assets/fbfdc9b4-7b1e-4b1b-b0ce-1ebc5f586d44)
+
 ## Overview
 
 This repository contains the hardware design files, firmware, documentation, and scripts for the **ESP32-EASY-PROTO-V2** board. The board is an educational and prototyping platform built around the ESP32-WROOM-32E module (Wi-Fi + Bluetooth), featuring multiple sensors (IMU, humidity, pressure), peripherals (OLED, SD card, buzzer, IR, WS2812B), and a flexible power design (7–30 V DC or USB).
