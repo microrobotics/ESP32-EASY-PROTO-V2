@@ -1,6 +1,6 @@
 # scripts
 
-Utility scripts related to ESP32-EASY-PROTO-V2 manufacturing, testing, or housekeeping.
+Utility scripts for the ESP32-EASY-PROTO-V2, **proprietary**—see [../LICENSE.md](../LICENSE.md).
 
 ## Potential Script Types
 
