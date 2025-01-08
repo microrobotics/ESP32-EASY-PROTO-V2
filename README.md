@@ -7,7 +7,7 @@
 
 ## Overview
 
-This repository contains the hardware design files, firmware, documentation, and scripts for the **ESP32-EASY-PROTO-V2** board. The board is an educational and prototyping platform built around the ESP32-WROOM-32E module (Wi-Fi + Bluetooth), featuring multiple sensors (IMU, humidity, pressure), peripherals (OLED, SD card, buzzer, IR, WS2812B), and a flexible power design (7–30 V DC or USB).
+This repository contains the hardware design files, firmware, documentation, and scripts for the **ESP32-EASY-PROTO-V2** board. The board is an educational and prototyping platform built around the ESP32-WROOM-32E module (Wi-Fi + Bluetooth), featuring multiple sensors (IMU, humidity, pressure), peripherals (OLED, SD card, buzzer, IR, WS2812B), and a flexible power design (7–30 V DC Jack and/or USB).
 
 ## Repository Structure
 
