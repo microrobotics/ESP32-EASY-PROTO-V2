@@ -1,6 +1,6 @@
 # docs
 
-Documentation and reference materials for the ESP32-EASY-PROTO-V2.
+Documentation, images, diagrams, and additional references for the **ESP32-EASY-PROTO-V2** board. **Proprietary**—see [../LICENSE.md](../LICENSE.md).
 
 ## Structure
 
