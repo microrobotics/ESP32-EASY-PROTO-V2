@@ -1,6 +1,6 @@
 # hardware/pcb
 
-This subdirectory holds **PCB layout files** and **manufacturing outputs** (Gerbers) for the ESP32-EASY-PROTO-V2.
+**PCB layout** data for the ESP32-EASY-PROTO-V2: source files, Gerbers, BOM, and assembly instructions. **Proprietary**—see [../../LICENSE.md](../../LICENSE.md).
 
 ## Directory Structure
 
