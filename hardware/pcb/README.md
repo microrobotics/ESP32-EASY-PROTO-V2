@@ -24,7 +24,7 @@ This subdirectory holds **PCB layout files** and **manufacturing outputs** (Gerb
 
 ## Revision History
 
-- **V1.0**  
+- **V2.0**  
   - Initial production design: Silkscreen had the GPIO36 ↔ GPIO39 swap.  
 
 ## Manufacturing Notes
@@ -34,5 +34,5 @@ This subdirectory holds **PCB layout files** and **manufacturing outputs** (Gerb
 2. **BOM**  
    - Use the included BOM in `BOM/` subfolder to source components.  
 3. **Assembly**  
-   - If you plan to have an assembly house place parts, include the pick-and-place files.
+   - If you plan to have an assembly house place parts, generate the pick-and-place files.
 
