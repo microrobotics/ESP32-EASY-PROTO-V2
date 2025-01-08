@@ -13,7 +13,7 @@ By accessing or using these Materials, you agree to the following terms:
 
 For more information or licensing inquiries, please contact:
 
-**Micro Robotics**  
+**Micro Robotics (PTY) LTD**  
 support@microgroup.co.za
 www.robotics.org.za
 
