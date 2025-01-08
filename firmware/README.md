@@ -1,6 +1,6 @@
 # firmware
 
-Firmware projects, example sketches, or code bases for the ESP32-EASY-PROTO-V2.
+**Firmware** projects and example sketches for the ESP32-EASY-PROTO-V2. **Proprietary**—see [../LICENSE.md](../LICENSE.md).
 
 ## Subfolders
 
