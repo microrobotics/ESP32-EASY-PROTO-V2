@@ -1,11 +1,11 @@
 # hardware
 
-This directory contains all **hardware design files** for the ESP32-EASY-PROTO-V2 board.
+All **hardware design files** for the **ESP32-EASY-PROTO-V2** board. This includes schematics, PCB layouts, Gerbers, mechanical references, and BOMs. **Proprietary** design—see [../LICENSE.md](../LICENSE.md).
 
 ## Subdirectories
 
 - **schematic/**  
-  Source schematic files (e.g., KiCad, Altium, Eagle), exported PDF versions, and notes.
+  Source schematic files (e.g., KiCad, Altium, Eagle), exported PDF versions, netlists and notes.
 
 - **pcb/**  
   PCB layout files, Gerbers, Bill of Materials (BOM), and related manufacturing outputs.
