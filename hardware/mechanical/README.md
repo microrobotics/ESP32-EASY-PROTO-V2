@@ -2,7 +2,7 @@
 
 This folder contains **mechanical design files** for the ESP32-EASY-PROTO-V2.
 
-## Potential Contents
+## Contents
 
 - **3D_models/**  
   - `.step`, `.stl`, or `.obj` files representing the board or custom enclosure.  
@@ -11,6 +11,6 @@ This folder contains **mechanical design files** for the ESP32-EASY-PROTO-V2.
 
 ## Usage
 
-- Enclosures: If you create a 3D-printed or laser-cut enclosure, place design files or plans here.  
-- Mounting Info: The PCB has corner holes for rubber feet or enclosure screws, typically 2.5 mm or 3 mm diameter.
+- Enclosures: 3D-printed or laser-cut enclosure, place design files or plans here.  
+- Mounting Info: The PCB has corner holes for rubber feet or enclosure screws
 
