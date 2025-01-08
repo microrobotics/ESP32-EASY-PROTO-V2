@@ -1,6 +1,6 @@
 # hardware/mechanical
 
-This folder contains **mechanical design files** for the ESP32-EASY-PROTO-V2.
+Mechanical design files, **if any**, for the ESP32-EASY-PROTO-V2. **Proprietary**—see [../../LICENSE.md](../../LICENSE.md).
 
 ## Contents
 
