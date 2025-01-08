@@ -31,7 +31,15 @@ This repository contains the hardware design files, firmware, documentation, and
 1. **Clone or Download** this repository.  
 2. Refer to [hardware/README.md](hardware/README.md) for hardware design details.  
 3. Look in [firmware/README.md](firmware/README.md) for firmware setup and examples.  
-4. Check [docs/README.md](docs/README.md) for additional documentation or images.  
+4. Check [docs/README.md](docs/README.md) for additional documentation or images.
+
+---
+
+## License
+
+This project is **proprietary** and not covered by any open-source license. See [LICENSE.md](LICENSE.md) for full details. Unauthorized copying, modification, or distribution of these design files is prohibited.
+
+---
 
 ## Contact & Support
 
