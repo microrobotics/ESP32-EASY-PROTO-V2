@@ -13,7 +13,7 @@ This subdirectory contains **schematic files** for the ESP32-EASY-PROTO-V2 board
 
 ## Version / Revision History
 
-- **V1.0**  
+- **V2.0**  
   - Initial release by Lucienne Swart, Micro Robotics.  
   - ESP32-WROOM-32E module, IMU, humidity, pressure, etc.
 
