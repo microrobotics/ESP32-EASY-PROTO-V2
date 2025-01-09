@@ -16,7 +16,7 @@
 
 ## PCB Information
 
-- **Dimensions:** 136.7 mm x 90 mm  
+- **Dimensions:** 136.7 mm x 80 mm  
 - **Layers:** 2-layer FR-4  
 - **Surface Finish:** HASL (with lead)  
 - **Solder Mask:** Black, Silkscreen: White  
