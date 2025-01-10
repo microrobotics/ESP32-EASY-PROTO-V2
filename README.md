@@ -41,6 +41,16 @@ This project is **proprietary** and not covered by any open-source license. See 
 
 ---
 
+## Proprietary Documentation
+
+Detailed technical documentation, including editable Word files and PDF versions, is managed in a **private repository** for internal use.  
+
+- [Access Private Repository](https://github.com/microrobotics/private.ESP32-EASY-PROTO-V2/tree/main) *(Access requires appropriate permissions)*  
+
+For inquiries about accessing the private documentation, please contact **Micro Robotics** at support@microgroup.co.za.
+
+---
+
 ## Contact & Support
 
 - **Micro Robotics**: support@microgroup.co.za  
