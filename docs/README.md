@@ -8,6 +8,8 @@ Documentation, images, diagrams, and additional references for the **ESP32-EASY-
   - Photos, board diagrams, block diagrams, schematics screenshots, etc.
 - **PDF/**  
   - Final user manual PDFs, datasheet references, or assembly guides.
+- **source/**  
+  - netlist.
 
 
 
